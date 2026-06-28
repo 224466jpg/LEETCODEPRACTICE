@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
