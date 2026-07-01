@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0088-merge-sorted-array) |
@@ -24,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0189-rotate-array) |
@@ -80,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
