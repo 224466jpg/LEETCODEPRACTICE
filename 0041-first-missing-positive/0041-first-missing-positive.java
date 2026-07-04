@@ -12,11 +12,9 @@ class Solution {
 
         // Mark existing numbers
         for (int i = 0; i < n; i++) {
-            int val = Math.abs(nums[i]);
-
-            if (val <= n) {
-                int index = val - 1;
-                nums[index] = -Math.abs(nums[index]);
+            if (Math.abs(nums[i]) <= n) {
+                nums[Math.abs(nums[i]) - 1] =
+                    -Math.abs(nums[Math.abs(nums[i]) - 1]);
             }
         }
 
