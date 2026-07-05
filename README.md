@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0048-rotate-image) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0704-binary-search) |
 ## Matrix
