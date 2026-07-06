@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0704-binary-search) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
 |  |
 | ------- |
