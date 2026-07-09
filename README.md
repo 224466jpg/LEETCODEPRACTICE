@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0268-missing-number) |
 ## Hash Table
@@ -133,4 +135,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
