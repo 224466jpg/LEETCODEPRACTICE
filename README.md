@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0189-rotate-array) |
