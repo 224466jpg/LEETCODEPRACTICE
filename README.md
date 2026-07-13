@@ -160,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1025-divisor-game) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
