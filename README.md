@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1929-concatenation-of-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1672-richest-customer-wealth) |
 ## Stack
 |  |
 | ------- |
