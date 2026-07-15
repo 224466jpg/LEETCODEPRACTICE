@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0268-missing-number) |
 ## Counting
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0709-to-lower-case) |
 ## Brainteaser
 |  |
