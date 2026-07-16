@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0283-move-zeroes) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0041-first-missing-positive) |
+| [0141-linked-list-cycle](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0242-valid-anagram) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0237-delete-node-in-a-linked-list) |
