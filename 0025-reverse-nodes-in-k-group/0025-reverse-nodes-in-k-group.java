@@ -9,43 +9,39 @@
  * }
  */
 class Solution {
-
-    public int lengthOfLL(ListNode head){
-        int len = 0;
+    public int lengthofll(ListNode head){
         ListNode temp = head;
+        int len = 0;
         while(temp != null){
             len++;
             temp = temp.next;
+
         }
         return len;
     }
-
-    ListNode reverseKGroupRec(ListNode head, int k, int lenOfLL){
-        if(lenOfLL < k){
+    public ListNode recursiverev(ListNode head, int k, int lengthofll){
+        if(lengthofll<k){
             return head;
-        }
 
-        // Step-1
-        ListNode prev = null, curr = head, nxt = null;
-        for(int i=0; i<k; i++){
+        }
+        ListNode curr = head;
+        ListNode prev = null;
+        ListNode nxt = null;
+       for(int i=0;i<k;i++){
             nxt = curr.next;
             curr.next = prev;
             prev = curr;
             curr = nxt;
-        }
 
-        // reverseHead => prev
-        // Step-2
-        ListNode nextKReverseHead = reverseKGroupRec(curr, k, lenOfLL - k);
-        // Step-3
-        head.next = nextKReverseHead;
-        // Step-4
+
+        }
+        ListNode nexthead = recursiverev( curr, k,lengthofll-k);
+        head.next= nexthead ;
         return prev;
     }
-
     public ListNode reverseKGroup(ListNode head, int k) {
-        int lenOfLL = lengthOfLL(head);
-        ListNode kReverseHead = reverseKGroupRec(head, k, lenOfLL);
+        int lenOfLL = lengthofll(head);
+        ListNode kReverseHead = recursiverev(head, k, lenOfLL);
         return kReverseHead;
     }
 }
