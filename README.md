@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1025-divisor-game) |
 ## Two Pointers
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1768-merge-strings-alternately) |
 ## Math
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0709-to-lower-case) |
 | [1768-merge-strings-alternately](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1768-merge-strings-alternately) |
 ## Brainteaser
