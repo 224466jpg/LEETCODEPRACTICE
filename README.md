@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1025-divisor-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3658-gcd-of-odd-and-even-sums) |
