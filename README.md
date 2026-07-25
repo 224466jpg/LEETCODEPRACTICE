@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1025-divisor-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0268-missing-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
