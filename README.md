@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0056-merge-intervals) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0088-merge-sorted-array) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0709-to-lower-case) |
