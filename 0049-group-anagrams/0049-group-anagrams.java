@@ -16,13 +16,14 @@ class Solution {
         list.add(str);
         anagram.put(sortedlist, list);
         }
-        List<List<String>> ans = new ArrayList<>();
-        Set<Map.Entry< String, List<String>>> sett = anagram.entrySet();
-        for(Map.Entry<String,List<String>>entry:sett){
+        List<List<String>> list = new ArrayList<>();
+        Set<Map.Entry<String ,<List<String>>>> sett = anagram.entrySet();
+        for(Map.Entry<String ,<List(<String>> entry:set){
             ans.add(entry.getValue());
-        
-        }
-        return ans;
+
+    }
+    return ans;
+
 
 
 
