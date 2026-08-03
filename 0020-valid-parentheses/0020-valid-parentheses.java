@@ -21,7 +21,7 @@ class Solution {
             }
         }
 
-        if (stk.size() < 0) {
+        if (stk.size() > 0) {
             return false;
         }
 
