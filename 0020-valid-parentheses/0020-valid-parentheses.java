@@ -1,11 +1,11 @@
-import java.util.Stack;
+//mport java.util.Stack;
 
 class Solution {
     public boolean isValid(String s) {
         Stack<Character> stk = new Stack<>();
 
         for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
+            char ch = s.charAt(i);//current char hoga
 
             if (ch == '(' || ch == '{' || ch == '[') {
                 stk.push(ch);
@@ -21,7 +21,7 @@ class Solution {
             }
         }
 
-        if (stk.size() > 0) {
+        if (stk.size() < 0) {
             return false;
         }
 
