@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0128-longest-consecutive-sequence) |
@@ -185,12 +186,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0020-valid-parentheses) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
