@@ -4,17 +4,19 @@ class MyStack {
 
     public MyStack() {
         q = new LinkedList<>();
-        helperq = new LinkedList<>();
+        
     }
 
     public void push(int x) {
-        while(!q.isEmpty()){
-            helperq.offer(q.poll());
-        } 
         q.offer(x);
-        while(!helperq.isEmpty()){
-            q.offer(helperq.poll());
-        }
+
+        int i = 0 ;
+        int n = q.size() ;
+        while(i< n-1){
+            q.offer(q.poll());
+            i++;
+        } 
+        
     }
 
     public int pop() {
