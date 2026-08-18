@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1025-divisor-game) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0263-ugly-number) |
@@ -316,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0239-sliding-window-maximum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
