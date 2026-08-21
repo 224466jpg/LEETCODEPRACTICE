@@ -18,6 +18,7 @@ class Solution {
         if (root == null) {
             return true;
         }
+        
 
         return isSameTree(root.left, root.right);
     }
