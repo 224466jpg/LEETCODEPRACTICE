@@ -18,9 +18,9 @@ class Solution {
         if (root == null){
             return 0;
         }
-        int lfthyt = maxDepth(root.left);
-        int rythyt = maxDepth(root.right);
-        return 1 + Math.max(lfthyt , rythyt);
+        int lefthyt = maxDepth(root.left);
+        int righthyt = maxDepth(root.right);
+        return 1 + Math.max(lefthyt , righthyt);
              
              }
 
