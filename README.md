@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -362,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0056-merge-intervals) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
