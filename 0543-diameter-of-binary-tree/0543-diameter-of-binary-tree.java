@@ -16,19 +16,15 @@
 class Solution {
     public int maxdiameter;
     public int height(TreeNode root){
-        if(root == null) return 0 ;
+        if(root == null) return 0;
         int lfthyt = height(root.left);
-        int rgthyt = height(root.right);
-        maxdiameter = Math.max(maxdiameter, lfthyt + rgthyt);
-        return 1 + Math.max(lfthyt , rgthyt);
-
-        
-
+        int rythyt = height(root.right);
+        maxdiameter = Math.max(maxdiameter,lfthyt+rythyt);
+        return 1 + Math.max(lfthyt , rythyt);
     }
     public int diameterOfBinaryTree(TreeNode root) {
         maxdiameter = 0;
         height(root);
         return maxdiameter;
-
     }
 }
