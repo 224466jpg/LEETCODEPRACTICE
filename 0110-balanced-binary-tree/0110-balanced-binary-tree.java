@@ -19,17 +19,17 @@ class Solution {
             return true;
         }
         int lfthyt = height(root.left);
-        int rythyt= height(root.right);
+        int rythyt = height(root.right);
         if(Math.abs(lfthyt - rythyt)>1){
             return false;
         }
-       
         return isBalanced(root.left) && isBalanced(root.right);
+
     }
     int height(TreeNode root){
         if(root == null){
             return 0;
         }
-        return Math.max(height(root.left),height(root.right))+1;
+        return Math.max(height(root.left) ,height(root.right))+1;
     }
 }
