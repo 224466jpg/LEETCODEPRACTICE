@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3904-smallest-stable-index-ii) |
 ## Number Theory
 |  |
 | ------- |
