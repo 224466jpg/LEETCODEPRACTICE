@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0543-diameter-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0543-diameter-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0226-invert-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0543-diameter-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
