@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0392-is-subsequence) |
+| [0940-distinct-subsequences-ii](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1025-divisor-game) |
 ## Two Pointers
 |  |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0402-remove-k-digits) |
 | [0709-to-lower-case](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0709-to-lower-case) |
+| [0940-distinct-subsequences-ii](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0940-distinct-subsequences-ii) |
 | [1768-merge-strings-alternately](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1768-merge-strings-alternately) |
 ## Brainteaser
 |  |
