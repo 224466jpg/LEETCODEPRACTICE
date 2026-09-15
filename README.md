@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1025-divisor-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1768-merge-strings-alternately) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0709-to-lower-case) |
 | [0940-distinct-subsequences-ii](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0940-distinct-subsequences-ii) |
 | [1768-merge-strings-alternately](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1768-merge-strings-alternately) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Brainteaser
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0402-remove-k-digits) |
 | [1323-maximum-69-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1323-maximum-69-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
