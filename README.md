@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1025-divisor-game) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Two Pointers
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1323-maximum-69-number) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3904-smallest-stable-index-ii) |
 ## Number Theory
@@ -410,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
