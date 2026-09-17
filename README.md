@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0940-distinct-subsequences-ii) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0402-remove-k-digits) |
