@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0901-online-stock-span) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Monotonic Stack
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0402-remove-k-digits) |
 | [0709-to-lower-case](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1768-merge-strings-alternately](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1768-merge-strings-alternately) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Range Minimum/Maximum Query
