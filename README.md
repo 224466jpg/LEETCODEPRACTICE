@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3665-twisted-mirror-path-count) |
 | [3731-find-missing-elements](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3904-smallest-stable-index-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3665-twisted-mirror-path-count) |
 ## Two Pointers
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3665-twisted-mirror-path-count](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3665-twisted-mirror-path-count) |
 ## Stack
 |  |
 | ------- |
