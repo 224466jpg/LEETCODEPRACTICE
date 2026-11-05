@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0835-image-overlap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1672-richest-customer-wealth) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0347-top-k-frequent-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3731-find-missing-elements) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Matrix
 |  |
