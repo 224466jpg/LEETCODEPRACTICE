@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3665-twisted-mirror-path-count) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0901-online-stock-span) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0901-online-stock-span) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -421,15 +424,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sliding Window
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0239-sliding-window-maximum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Memoization
 |  |
 | ------- |
@@ -466,4 +472,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
