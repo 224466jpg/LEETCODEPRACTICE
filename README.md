@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1672-richest-customer-wealth](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1920-build-array-from-permutation) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1025-divisor-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1323-maximum-69-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3524-find-x-value-of-array-i](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3524-find-x-value-of-array-i) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3364-minimum-positive-sum-subarray](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/224466jpg/LEETCODEPRACTICE/tree/master/3903-smallest-stable-index-i) |
